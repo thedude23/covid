@@ -1,2 +1,2 @@
-# Covid-19
+# covid
 Design, made in Figma
